@@ -33,7 +33,27 @@ This tutorial, we will observe various network traffic from Azure Virtual Machin
  <h2>Actions and Observations</h2>
 
 <p>
-<img src="https://i.imgur.com/chyaFyl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/MEkMXaL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+ <p>
+<img src="https://i.imgur.com/1mTcmmT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+ <p>
+<img src="https://i.imgur.com/OF4Z6pW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<p>
+<img src="https://i.imgur.com/mbqJvzK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  <p>
+<img src="https://i.imgur.com/3haAGDz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  <p>
+<img src="https://i.imgur.com/ejM0f0C.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 1. Creating Virtual Machines (VMs):
@@ -54,7 +74,7 @@ This tutorial, we will observe various network traffic from Azure Virtual Machin
 <br />
 
 <p>
-<img src="https://i.imgur.com/chyaFyl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/3M24N0o.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
  2. Installing Wireshark on VM-1/Windows10:
@@ -66,7 +86,11 @@ This tutorial, we will observe various network traffic from Azure Virtual Machin
 
  
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/feOdABU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+ <p>
+<img src="https://i.imgur.com/mSqR6zy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 3. Monitoring Network Traffic with Wireshark:
@@ -79,7 +103,11 @@ This tutorial, we will observe various network traffic from Azure Virtual Machin
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Z7a5FRr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+ <p>
+<img src="https://i.imgur.com/0Y9KDun.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 4. Filtering ICMP Traffic:
@@ -94,9 +122,14 @@ This tutorial, we will observe various network traffic from Azure Virtual Machin
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/YBH8iXt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+ <p>
+<img src="https://i.imgur.com/Na86jz2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
 5. Configuring Network Security Groups (NSGs):
 
 - Navigate to the Overview page of VM-2 and go to the Networking tab.
@@ -113,7 +146,7 @@ This tutorial, we will observe various network traffic from Azure Virtual Machin
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/TBXYsNw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 6. Testing the Rule:
@@ -128,7 +161,7 @@ This tutorial, we will observe various network traffic from Azure Virtual Machin
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/TSB37Ch.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 7. Removing the Rule:
