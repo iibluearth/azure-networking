@@ -182,6 +182,19 @@ This tutorial, we will observe various network traffic from Azure Virtual Machin
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+ <p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+ <p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+ <p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+ 
 Before concluding this tutorial, let's take a moment to observe the various types of network traffic occurring in the background of our virtual machine (VM).
 
 2. **Filtering Network Traffic**: We can achieve this by filtering through different network protocols.
