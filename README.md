@@ -132,7 +132,7 @@ This tutorial, we will observe various network traffic from Azure Virtual Machin
 
 5. Configuring Network Security Groups (NSGs):
 
-- Navigate to the Overview page of VM-2 and go to the Networking tab.
+- Navigate to the Overview page of VM-2 Network Security Groups and go to Settings tab.
 
 - Add an "Inbound Security Rule" to deny ICMP traffic from any source.
 
@@ -140,7 +140,6 @@ This tutorial, we will observe various network traffic from Azure Virtual Machin
 
 - After adding the rule, it should appear in the list.
 
-- Optionally, this can also be done from the dedicated "Network Security Groups" page by selecting VM-2 and then "Inbound security rules".
 
 </p>
 <br />
