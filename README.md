@@ -160,16 +160,20 @@ This tutorial, we will observe various network traffic from Azure Virtual Machin
 <br />
 
 <p>
+<img src="https://i.imgur.com/mdMt6vp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<p>
 <img src="https://i.imgur.com/TSB37Ch.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 7. Removing the Rule:
-
-- Ctrl+ C to stop
  
 - Navigate back to VM-2's Network Security Groups and delete the previously added Inbound security rule.
 
 - After a few minutes, pinging VM-2 should work again, and Wireshark will display "reply" traffic.
+
+- Ctrl+ C to stop
 
 </p>
 <br />
