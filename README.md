@@ -1,4 +1,4 @@
-# azure-network-protocols
+# azure-networking
 <p align="center">
 <img src="https://i.imgur.com/MkZnGcM.png" alt="VM1 Windows and VM2 Linux"/>
 </p>
