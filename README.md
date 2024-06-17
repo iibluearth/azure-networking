@@ -10,7 +10,7 @@ This tutorial, we will observe various network traffic from Azure Virtual Machin
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- Command-Line Tool
+- Command-Line Tool / Powershell
 - Various Network Protocols (SSH, RDH, DNS, ICMP)
 - Wireshark (Protocol Analyzer)
 
