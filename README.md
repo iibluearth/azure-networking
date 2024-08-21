@@ -29,27 +29,27 @@ This tutorial, we will observe various network traffic from Azure Virtual Machin
  <h2>Actions and Observations</h2>
 
 <p>
-<img src="https://i.imgur.com/MEkMXaL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/mh8kGmY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
  <p>
-<img src="https://i.imgur.com/1mTcmmT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/TaaakDR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
  <p>
-<img src="https://i.imgur.com/OF4Z6pW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/riHDCOh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <p>
-<img src="https://i.imgur.com/mbqJvzK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-  <p>
-<img src="https://i.imgur.com/3haAGDz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/c7Lpjvf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   <p>
-<img src="https://i.imgur.com/ejM0f0C.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/cPOIijA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  <p>
+<img src="https://i.imgur.com/KUnnIC2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 1. Creating Virtual Machines (VMs):
@@ -70,7 +70,7 @@ This tutorial, we will observe various network traffic from Azure Virtual Machin
 <br />
 
 <p>
-<img src="https://i.imgur.com/3M24N0o.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ehA8VSf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
  2. Installing Wireshark on VM-1/Windows10:
@@ -82,11 +82,11 @@ This tutorial, we will observe various network traffic from Azure Virtual Machin
 
  
 <p>
-<img src="https://i.imgur.com/feOdABU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/jQlFWek.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
  <p>
-<img src="https://i.imgur.com/mSqR6zy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/JRZEQab.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 3. Monitoring Network Traffic with Wireshark:
@@ -99,11 +99,11 @@ This tutorial, we will observe various network traffic from Azure Virtual Machin
 <br />
 
 <p>
-<img src="https://i.imgur.com/Z7a5FRr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/x0DCFLP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
  <p>
-<img src="https://i.imgur.com/0Y9KDun.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/3VRVJCs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 4. Filtering ICMP Traffic:
@@ -118,11 +118,11 @@ This tutorial, we will observe various network traffic from Azure Virtual Machin
 <br />
 
 <p>
-<img src="https://i.imgur.com/YBH8iXt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/2fw5FQC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
  <p>
-<img src="https://i.imgur.com/Na86jz2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/CeQqHhI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -141,7 +141,7 @@ This tutorial, we will observe various network traffic from Azure Virtual Machin
 <br />
 
 <p>
-<img src="https://i.imgur.com/TBXYsNw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Lq2Dp3t.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 6. Testing the Rule:
@@ -156,11 +156,11 @@ This tutorial, we will observe various network traffic from Azure Virtual Machin
 <br />
 
 <p>
-<img src="https://i.imgur.com/mdMt6vp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Uxl3MXZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <p>
-<img src="https://i.imgur.com/TSB37Ch.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ZRkuuRZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 7. Removing the Rule:
@@ -175,19 +175,23 @@ This tutorial, we will observe various network traffic from Azure Virtual Machin
 <br />
 
 <p>
-<img src="https://i.imgur.com/LF25Wtg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/CaOcGt7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
  <p>
-<img src="https://i.imgur.com/0cL01WY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/mD7xbtl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
  <p>
-<img src="https://i.imgur.com/2Dt3CIx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/RtXsMBK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
  <p>
-<img src="https://i.imgur.com/Q3pfnqi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/TCxCtNz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<p>
+<img src="https://i.imgur.com/idbspAl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
  
@@ -195,7 +199,7 @@ Before concluding this tutorial, let's take a moment to observe the various type
 
 2. **Filtering Network Traffic**: We can achieve this by filtering through different network protocols.
 
-3. **Examples Demonstrated**: In the images provided above, I've showcased a few examples of filtering through protocols such as "SSH," "DHCP," "DNS," and "RDP" using Wireshark.
+3. **Examples Demonstrated**: In the images provided above, I've showcased a few examples of filtering through protocols such as "SSH," "DHCP," "DNS," "RDP" and "TCP" using Wireshark.
 
 4. **Corresponding Traffic Creation**: Additionally, I've utilized the command line to create the corresponding types of traffic for each protocol mentioned.
 
